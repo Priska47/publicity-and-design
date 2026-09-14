@@ -1,0 +1,283 @@
+{
+  "brand": {
+    "name": "Publicity and Design",
+    "red": "#CD141E",
+    "logo": "/assets/logo-blanco.png",
+    "heroTitle": "Contenido con intención. Marcas que dejan huella.",
+    "heroDescription": "Estrategia, producción audiovisual y diseño para que tu negocio comunique todo lo que tiene para ofrecer.",
+    "heroImage": "/assets/foto-gang-nam-1.webp"
+  },
+  "about": {
+    "title": "Un equipo. Una estrategia. De inicio a fin.",
+    "description": "Publicity and Design es un equipo dedicado a la producción estratégica de contenido para pymes.",
+    "story": "Nacimos al ver un patrón repetido: negocios con buen producto, pero cuyas redes no comunicaban ese nivel. Contenido publicado sin dirección clara ni una estrategia detrás.",
+    "approach": "Nos encargamos de todo el proceso: grabación, guion, edición y diseño, bajo una misma estrategia pensada para cada negocio. El mismo equipo sigue tu proyecto de inicio a fin, para mantener consistencia en cada pieza.",
+    "processVideos": [
+      {
+        "title": "Detrás de cada pieza",
+        "src": "/assets/proceso-1.mp4",
+        "poster": "/assets/proceso-1-poster.webp"
+      },
+      {
+        "title": "Así trabajamos",
+        "src": "/assets/proceso-2.mp4",
+        "poster": "/assets/proceso-2-poster.webp"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Producción audiovisual",
+      "description": "Grabación de video, sesiones de fotos y edición profesional.",
+      "items": [
+        "Videos para redes",
+        "Fotografía de producto",
+        "Edición profesional"
+      ]
+    },
+    {
+      "title": "Estrategia y contenido",
+      "description": "Guion, planificación de contenido y asesoramiento estratégico para cada negocio.",
+      "items": [
+        "Guiones",
+        "Planificación de contenido",
+        "Asesoramiento estratégico"
+      ]
+    },
+    {
+      "title": "Diseño",
+      "description": "Una identidad consistente en cada punto de contacto con tu marca.",
+      "items": [
+        "Diseños gráficos",
+        "Logo y animación",
+        "Catálogos"
+      ]
+    },
+    {
+      "title": "Gestión de redes",
+      "description": "Publicación, respuesta de mensajes y comentarios, gestión y pago publicitario.",
+      "items": [
+        "Publicación de contenido",
+        "Gestión de comunidad",
+        "Publicidad digital"
+      ]
+    },
+    {
+      "title": "Presencia de marca",
+      "description": "Cara de empresa en tus videos, reportes de resultados y seguimiento estratégico.",
+      "items": [
+        "Imagen PD",
+        "Reportes de resultados",
+        "Seguimiento estratégico"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "name": "Impulso",
+      "tagline": "Para dar el primer paso",
+      "price": 800,
+      "featured": false,
+      "items": [
+        "3 videos grabados y editados",
+        "3 guiones",
+        "3 diseños publicitarios",
+        "Imagen PD incluida",
+        "Gestión de publicidad sin costo adicional"
+      ]
+    },
+    {
+      "name": "Crecimiento",
+      "tagline": "Empieza a destacar",
+      "price": 1000,
+      "featured": true,
+      "items": [
+        "5 videos grabados y editados",
+        "5 guiones",
+        "5 diseños publicitarios",
+        "Imagen PD incluida",
+        "Logo animado",
+        "Manejo de redes",
+        "Gestión de publicidad sin costo adicional"
+      ]
+    },
+    {
+      "name": "Autoridad",
+      "tagline": "Para posicionar tu marca",
+      "price": 1400,
+      "featured": false,
+      "items": [
+        "8 videos grabados y editados",
+        "8 guiones",
+        "8 diseños publicitarios",
+        "Imagen PD incluida",
+        "Logo animado",
+        "Manejo de redes y calendario de contenido",
+        "Gestión de publicidad sin costo adicional"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "gang-nam-video",
+      "category": "videos",
+      "title": "Gang Nam",
+      "subtitle": "Gastronomía · Producción audiovisual",
+      "src": "/assets/gang-nam.mp4",
+      "poster": "/assets/gang-nam-poster.webp",
+      "views": 879500,
+      "likes": 49800,
+      "comments": 658,
+      "saves": 17800
+    },
+    {
+      "id": "led-scan-video",
+      "category": "videos",
+      "title": "LED SCAN",
+      "subtitle": "Automotriz · Contenido de producto",
+      "src": "/assets/led-scan.mp4",
+      "poster": "/assets/led-scan-poster.webp",
+      "views": 268600,
+      "likes": 3269,
+      "comments": 434,
+      "saves": 953
+    },
+    {
+      "id": "mariachi-video",
+      "category": "videos",
+      "title": "Mariachi del Tepeyac",
+      "subtitle": "Música · Producción audiovisual",
+      "src": "/assets/mariachi.mp4",
+      "poster": "/assets/mariachi-poster.webp",
+      "views": 153900,
+      "likes": 8291,
+      "comments": 158,
+      "saves": 1248
+    },
+    {
+      "id": "borde-video",
+      "category": "videos",
+      "title": "Club Borde de Ataque",
+      "subtitle": "Deporte · Contenido para redes",
+      "src": "/assets/borde-ataque.mp4",
+      "poster": "/assets/borde-ataque-poster.webp",
+      "views": 26900,
+      "likes": 1323,
+      "comments": 65,
+      "saves": 195
+    },
+    {
+      "id": "xplor-video",
+      "category": "videos",
+      "title": "XPLOR Tropical",
+      "subtitle": "Turismo · Producción audiovisual",
+      "src": "/assets/xplor.mp4",
+      "poster": "/assets/xplor-poster.webp",
+      "views": 37800,
+      "likes": 1296,
+      "comments": 143,
+      "saves": 418
+    },
+    {
+      "id": "fashion",
+      "category": "diseno",
+      "title": "H2O · Fashion femenina",
+      "subtitle": "Diseño publicitario",
+      "src": "/assets/fashion-h2o.webp"
+    },
+    {
+      "id": "gang-menu",
+      "category": "diseno",
+      "title": "Gang Nam · Menú",
+      "subtitle": "Diseño para redes",
+      "src": "/assets/gang-nam-menu.webp"
+    },
+    {
+      "id": "gang-horarios",
+      "category": "diseno",
+      "title": "Gang Nam · Horarios",
+      "subtitle": "Diseño publicitario",
+      "src": "/assets/gang-nam-horarios.webp"
+    },
+    {
+      "id": "led-diseno",
+      "category": "diseno",
+      "title": "LED SCAN",
+      "subtitle": "Diseño publicitario",
+      "src": "/assets/led-scan-diseno.webp"
+    },
+    {
+      "id": "rlm",
+      "category": "diseno",
+      "title": "RLM Repuestos",
+      "subtitle": "Identidad de marca",
+      "src": "/assets/rlm-1.webp"
+    },
+    {
+      "id": "catalogo-2026",
+      "category": "catalogos",
+      "title": "H2O · Colección 2026",
+      "subtitle": "Catálogo primavera / verano · Selección",
+      "src": "/assets/h2o-2026-1.webp",
+      "gallery": [
+        "/assets/h2o-2026-1.webp",
+        "/assets/h2o-2026-3.webp",
+        "/assets/h2o-2026-6.webp",
+        "/assets/h2o-2026-11.webp"
+      ]
+    },
+    {
+      "id": "catalogo-2025",
+      "category": "catalogos",
+      "title": "H2O · Colección 2025",
+      "subtitle": "Catálogo primavera / verano · Selección",
+      "src": "/assets/h2o-2025-1.webp",
+      "gallery": [
+        "/assets/h2o-2025-1.webp",
+        "/assets/h2o-2025-3.webp",
+        "/assets/h2o-2025-6.webp",
+        "/assets/h2o-2025-11.webp"
+      ]
+    },
+    {
+      "id": "foto-1",
+      "category": "fotos",
+      "title": "Gang Nam · Fotografía",
+      "subtitle": "Sesión de producto",
+      "src": "/assets/foto-gang-nam-1.webp"
+    },
+    {
+      "id": "foto-2",
+      "category": "fotos",
+      "title": "Gang Nam · Fotografía",
+      "subtitle": "Sesión de producto",
+      "src": "/assets/foto-gang-nam-2.webp"
+    },
+    {
+      "id": "foto-3",
+      "category": "fotos",
+      "title": "Gang Nam · Fotografía",
+      "subtitle": "Sesión de producto",
+      "src": "/assets/foto-gang-nam-3.webp"
+    },
+    {
+      "id": "foto-4",
+      "category": "fotos",
+      "title": "Gang Nam · Fotografía",
+      "subtitle": "Sesión de producto",
+      "src": "/assets/foto-gang-nam-4.webp"
+    }
+  ],
+  "contact": {
+    "whatsapp": "59168446443",
+    "email": "",
+    "instagram": "https://www.instagram.com/publicitydesign_pd/",
+    "tiktok": "https://www.tiktok.com/@publicitydesign_",
+    "facebook": "",
+    "facebookLabel": "PublicityDesign"
+  },
+  "notes": {
+    "metrics": "Resultados compartidos por el cliente. Corresponden a las publicaciones mostradas y pueden variar con el tiempo.",
+    "pricing": "Precios de los paquetes mensuales en bolivianos. También puedes contratar servicios individuales o una propuesta a medida, con asesoría gratuita y cotizaciones personalizadas. La inversión publicitaria corre por cuenta del cliente. Todos los paquetes incluyen análisis de mercado, soporte constante y asesoramiento."
+  }
+}
