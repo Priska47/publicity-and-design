@@ -2,13 +2,12 @@
 
 Cuando el proyecto esté publicado y el acceso esté activado, entra a la dirección de la web seguida de `/admin/`. Escribe la contraseña que se entregará por un canal privado.
 
-1. **Inicio:** cambia el título, descripción, color, logo y fotografía principal. Para que el título se divida en dos partes, separa la primera frase de la segunda con un punto y un espacio.
-2. **Nosotros:** actualiza la presentación y los dos videos del proceso. Cada video necesita una ruta al MP4 y una imagen de portada.
+1. **Inicio:** cambia el título, descripción, color, logo, video animado y datos destacados. Para que el título se divida en dos partes, sepáralas con una coma.
+2. **Nosotros:** actualiza la presentación y los cuatro videos del proceso. Cada video necesita una ruta al MP4 y una imagen de portada.
 3. **Servicios:** edita los nombres, descripciones y detalles. Escribe un detalle por línea. Puedes agregar, eliminar o reordenar servicios.
-4. **Planes (paquetes):** cambia nombres, precios y beneficios. Los precios son mensuales y están expresados en bolivianos. Marca el plan que quieres destacar. Revisa también la aclaración sobre inversión publicitaria.
-5. **Trabajos:** agrega videos, diseños, fotos y selecciones de catálogo. Para cada video, registra las vistas, los me gusta, comentarios y guardados. Las métricas se actualizan manualmente.
-6. **Contacto:** cambia WhatsApp, correo o redes sociales. Para WhatsApp, escribe solo números, con código de país. Ejemplo: `59168446443`. Una red vacía se oculta de la web.
-7. Pulsa **Guardar cambios**. El panel confirmará si se guardaron. La nueva versión aparecerá cuando termine la publicación; puede tomar unos minutos. Si no aparece, revisa el estado en Netlify.
+4. **Trabajos:** agrega videos, diseños, fotos y selecciones de catálogo. Para cada video, registra las vistas, los me gusta, comentarios y guardados. Las métricas se actualizan manualmente.
+5. **Contacto:** cambia WhatsApp, correo o redes sociales. Para WhatsApp, escribe solo números, con código de país. Ejemplo: `59164474763`. Una red vacía se oculta de la web.
+6. Pulsa **Guardar cambios**. El panel confirmará si se guardaron. La nueva versión aparecerá cuando termine la publicación; puede tomar unos minutos. Si no aparece, revisa el estado en Netlify.
 
 ## Cambiar imágenes o videos
 

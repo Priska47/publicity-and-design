@@ -7,3 +7,19 @@
 @media(max-width:480px){.wrap{width:calc(100% - 40px)}.header{padding:0 20px}.brand{font-size:12px;gap:8px}.brand img{width:33px;height:33px}.hero h1{font-size:55px;margin-top:28px}.eyebrow{font-size:10px!important;letter-spacing:1.1px}.hero-actions{gap:24px}.hero-actions .button{width:100%}.hero-stats{gap:25px}.hero-stats strong{font-size:30px}.hero-stats>div:nth-child(2) strong{font-size:18px}.hero-photo{height:440px}.photo-caption{font-size:9px;letter-spacing:.5px}.hero-stamp{width:125px;height:125px}.hero-stamp span{font-size:12px}.process{gap:20px;grid-template-columns:1fr;margin-top:30px}.process-card{min-height:300px}.process-card img{height:330px}.service-list summary{grid-template-columns:35px 1fr 35px}.service-list h3{font-size:22px;line-height:1.2}.service-description{padding-left:35px}.plans ul{grid-template-columns:1fr}.filters{gap:8px}.filters button{font-size:12px;padding:11px 16px}.project-grid{gap:30px;grid-template-columns:1fr}.project-cover img{aspect-ratio:4/4.6}.project[data-category=videos] .project-cover img{aspect-ratio:4/5}.contact-links{gap:20px}.contact-inner h2{font-size:49px}.footer{gap:25px}.footer>span{width:100%;margin:0}dialog{padding:20px}.dialog-stats{gap:18px;padding:10px}.dialog-stats strong{font-size:18px}.gallery-controls{gap:10px}.gallery-controls button{padding:10px}}
 @media(max-width:360px){.header{gap:8px}.header>.button{padding:10px;gap:8px}.menu-toggle{padding:7px}.header .brand{font-size:11px}}
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
+
+/* Actualización solicitada por la agencia */
+.hero h1{font-size:clamp(48px,4.65vw,73px);max-width:760px;overflow-wrap:normal}
+.hero-video{object-fit:contain;background:#000}
+.hero-art{margin-left:0}
+.hero-stats>div:nth-child(2) strong{font-size:32px;letter-spacing:-1px}
+.consultation-section{border-bottom:1px solid var(--line);display:flex;align-items:end;justify-content:space-between;gap:55px}
+.consultation-copy{max-width:900px}
+.consultation-copy h2{font-size:clamp(45px,5vw,76px);line-height:1.06;letter-spacing:-.06em;margin:20px 0 24px}
+.consultation-copy>p:last-child{max-width:580px;color:var(--muted);line-height:1.65;font-size:16px}
+.consultation-section .button{flex:none}
+.project[data-category=diseno] .project-cover img,.project[data-category=catalogos] .project-cover img,.project[data-category=fotos] .project-cover img{aspect-ratio:auto;height:auto;object-fit:contain;background:transparent}
+.project[data-category=diseno] .project-cover,.project[data-category=catalogos] .project-cover,.project[data-category=fotos] .project-cover{background:transparent}
+@media(max-width:1150px){.hero h1{font-size:clamp(48px,5.5vw,64px)}}
+@media(max-width:800px){.hero h1{font-size:clamp(48px,8vw,72px)}.consultation-section{display:block}.consultation-section .button{margin-top:24px}.hero-art{margin-left:0}}
+@media(max-width:480px){.hero h1{font-size:clamp(42px,11vw,53px)}.hero-video{height:auto;aspect-ratio:1}.consultation-section .button{width:100%}.consultation-copy h2{font-size:45px}}

@@ -1,8 +1,8 @@
 # Publicity and Design
 
-Web de agencia en español, preparada para despliegue automático en Netlify. Repositorio: [Priska47/publicity-and-design](https://github.com/Priska47/publicity-and-design). Rojo oficial: `#CD141E`. WhatsApp: `+591 68446443`.
+Web de agencia en español, preparada para despliegue automático en Netlify. Repositorio: [Priska47/publicity-and-design](https://github.com/Priska47/publicity-and-design). Rojo oficial: `#CD141E`. WhatsApp de la agencia: `+591 64474763`.
 
-Incluye Inicio, Nosotros, Servicios, paquetes mensuales, Trabajos y Contacto. Distingue los paquetes de los servicios individuales y ofrece asesoría gratuita y cotizaciones personalizadas. El portafolio contiene cinco videos con métricas, cinco diseños, dos selecciones de catálogo y cuatro fotografías. Los dos videos del proceso están en Nosotros.
+Incluye Inicio, Nosotros, Servicios, Trabajos y Contacto. Ofrece asesoría gratuita y cotizaciones personalizadas, sin precios publicados. El portafolio contiene cinco videos con métricas, cinco diseños, dos selecciones de catálogo y cuatro fotografías. Cuatro videos del proceso están en Nosotros. El inicio incluye el logo animado en bucle.
 
 ## Revisar localmente
 
@@ -52,7 +52,7 @@ Este panel sirve a un administrador compartido. No ofrece cuentas individuales n
 
 ## Materiales
 
-Las fotografías originales y los PDF son muy pesados; se usan fotografías optimizadas y cuatro páginas seleccionadas por catálogo. Los siete videos suministrados se conservan completos. No se incluye información comercial de la conversación en la página pública.
+Las fotografías originales y los PDF son muy pesados; se usan fotografías optimizadas, la portada y tres páginas seleccionadas por catálogo. Los videos nuevos se optimizaron para la web y conservan su contenido. No se incluye información comercial de la conversación en la página pública.
 
 Las portadas de los videos se extraen de los propios archivos; no se usan imágenes generadas ni material ajeno. Las vistas, likes, comentarios y guardados son valores de las capturas aportadas, editables manualmente. No se consulta TikTok en tiempo real.
 

@@ -3,9 +3,14 @@
     "name": "Publicity and Design",
     "red": "#CD141E",
     "logo": "/assets/logo-blanco.png",
-    "heroTitle": "Contenido con intención. Marcas que dejan huella.",
-    "heroDescription": "Estrategia, producción audiovisual y diseño para que tu negocio comunique todo lo que tiene para ofrecer.",
-    "heroImage": "/assets/foto-gang-nam-1.webp"
+    "heroTitle": "Vos tenés una marca, nosotros sabemos cómo potenciarla.",
+    "heroDescription": "Creamos contenido con estrategia, producción audiovisual y diseño para mostrar todo el potencial de tu marca.",
+    "heroImage": "/assets/logo-animado-poster.webp",
+    "heroVideo": "/assets/logo-animado.mp4",
+    "stat1Value": "200+",
+    "stat1Label": "producciones realizadas",
+    "stat2Value": "Más de 3 años",
+    "stat2Label": "haciendo que las marcas se vean"
   },
   "about": {
     "title": "Un equipo. Una estrategia. De inicio a fin.",
@@ -22,6 +27,16 @@
         "title": "Así trabajamos",
         "src": "/assets/proceso-2.mp4",
         "poster": "/assets/proceso-2-poster.webp"
+      },
+      {
+        "title": "Producción en acción",
+        "src": "/assets/lamelin.mp4",
+        "poster": "/assets/lamelin-poster.webp"
+      },
+      {
+        "title": "Detrás de cámaras",
+        "src": "/assets/produccion-detras.mp4",
+        "poster": "/assets/produccion-detras-poster.webp"
       }
     ]
   },
@@ -69,51 +84,6 @@
         "Imagen PD",
         "Reportes de resultados",
         "Seguimiento estratégico"
-      ]
-    }
-  ],
-  "plans": [
-    {
-      "name": "Impulso",
-      "tagline": "Para dar el primer paso",
-      "price": 800,
-      "featured": false,
-      "items": [
-        "3 videos grabados y editados",
-        "3 guiones",
-        "3 diseños publicitarios",
-        "Imagen PD incluida",
-        "Gestión de publicidad sin costo adicional"
-      ]
-    },
-    {
-      "name": "Crecimiento",
-      "tagline": "Empieza a destacar",
-      "price": 1000,
-      "featured": true,
-      "items": [
-        "5 videos grabados y editados",
-        "5 guiones",
-        "5 diseños publicitarios",
-        "Imagen PD incluida",
-        "Logo animado",
-        "Manejo de redes",
-        "Gestión de publicidad sin costo adicional"
-      ]
-    },
-    {
-      "name": "Autoridad",
-      "tagline": "Para posicionar tu marca",
-      "price": 1400,
-      "featured": false,
-      "items": [
-        "8 videos grabados y editados",
-        "8 guiones",
-        "8 diseños publicitarios",
-        "Imagen PD incluida",
-        "Logo animado",
-        "Manejo de redes y calendario de contenido",
-        "Gestión de publicidad sin costo adicional"
       ]
     }
   ],
@@ -217,26 +187,26 @@
       "id": "catalogo-2026",
       "category": "catalogos",
       "title": "H2O · Colección 2026",
-      "subtitle": "Catálogo primavera / verano · Selección",
+      "subtitle": "Portada y tres páginas seleccionadas",
       "src": "/assets/h2o-2026-1.webp",
       "gallery": [
         "/assets/h2o-2026-1.webp",
-        "/assets/h2o-2026-3.webp",
-        "/assets/h2o-2026-6.webp",
-        "/assets/h2o-2026-11.webp"
+        "/assets/h2o-2026-16.webp",
+        "/assets/h2o-2026-18.webp",
+        "/assets/h2o-2026-32.webp"
       ]
     },
     {
       "id": "catalogo-2025",
       "category": "catalogos",
       "title": "H2O · Colección 2025",
-      "subtitle": "Catálogo primavera / verano · Selección",
+      "subtitle": "Portada y tres páginas seleccionadas",
       "src": "/assets/h2o-2025-1.webp",
       "gallery": [
         "/assets/h2o-2025-1.webp",
-        "/assets/h2o-2025-3.webp",
-        "/assets/h2o-2025-6.webp",
-        "/assets/h2o-2025-11.webp"
+        "/assets/h2o-2025-7.webp",
+        "/assets/h2o-2025-9.webp",
+        "/assets/h2o-2025-23.webp"
       ]
     },
     {
@@ -269,7 +239,7 @@
     }
   ],
   "contact": {
-    "whatsapp": "59168446443",
+    "whatsapp": "59164474763",
     "email": "",
     "instagram": "https://www.instagram.com/publicitydesign_pd/",
     "tiktok": "https://www.tiktok.com/@publicitydesign_",
@@ -277,7 +247,6 @@
     "facebookLabel": "PublicityDesign"
   },
   "notes": {
-    "metrics": "Resultados compartidos por el cliente. Corresponden a las publicaciones mostradas y pueden variar con el tiempo.",
-    "pricing": "Precios de los paquetes mensuales en bolivianos. También puedes contratar servicios individuales o una propuesta a medida, con asesoría gratuita y cotizaciones personalizadas. La inversión publicitaria corre por cuenta del cliente. Todos los paquetes incluyen análisis de mercado, soporte constante y asesoramiento."
+    "metrics": "Resultados compartidos por el cliente. Corresponden a las publicaciones mostradas y pueden variar con el tiempo."
   }
 }
