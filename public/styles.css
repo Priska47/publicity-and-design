@@ -36,3 +36,18 @@ body{background:#000}
 .admin-body .plain-button,.admin-body .admin-tabs button,.admin-body .card-actions button{border-radius:999px!important}
 @media(max-width:800px){.hero-art{max-width:400px}}
 @media(max-width:480px){.hero-art{max-width:290px}}
+
+/* Ajustes finales de contenido y contacto. */
+.hero-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;max-width:700px}
+.hero-stats>div{min-width:0}
+.hero-stats strong,.hero-stats>div:nth-child(2) strong{font-size:32px;letter-spacing:-1px;white-space:nowrap}
+.hero-stats span{max-width:none}
+.whatsapp-cta{gap:16px}
+.whatsapp-cta::after{content:"";display:block;width:23px;height:23px;flex:none;background:url('/assets/whatsapp.svg') center/contain no-repeat}
+.contact-links{gap:12px}
+.contact-links .contact-method{display:inline-flex;align-items:center;gap:9px;min-height:44px;padding:10px 15px;border:1px solid #ffffff80;border-radius:999px;background:#ffffff14;font-weight:700;transition:background .2s,transform .2s}
+.contact-links .contact-method:hover{background:#ffffff2b;transform:translateY(-2px);text-decoration:none}
+.contact-method img{width:20px;height:20px;object-fit:contain;flex:none}
+@media(max-width:800px){.hero-stats{gap:16px}}
+@media(max-width:480px){.hero-stats{gap:9px}.hero-stats strong,.hero-stats>div:nth-child(2) strong{font-size:clamp(24px,7vw,28px)}.hero-stats span{font-size:10px}.whatsapp-cta::after{width:21px;height:21px}.contact-links{gap:9px}.contact-links .contact-method{font-size:12px;padding:9px 11px}}
+@media(max-width:480px){.process{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.process-card{min-height:0}.process-card img{height:260px}.process-label{left:10px;right:10px;bottom:12px;gap:5px}.process-label strong{font-size:13px;line-height:1.15}.process-label .play{width:34px;height:34px;flex:none;font-size:12px}}

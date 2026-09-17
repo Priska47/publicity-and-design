@@ -3,7 +3,7 @@
 Cuando el proyecto esté publicado y el acceso esté activado, entra a la dirección de la web seguida de `/admin/`. Escribe la contraseña que se entregará por un canal privado.
 
 1. **Inicio:** cambia el título, descripción, color, logo, video animado y datos destacados. Para que el título se divida en dos partes, sepáralas con una coma.
-2. **Nosotros:** actualiza la presentación y los cuatro videos del proceso. Cada video necesita una ruta al MP4 y una imagen de portada.
+2. **Nosotros:** actualiza la presentación y los dos videos del proceso. Cada video necesita una ruta al MP4 y una imagen de portada.
 3. **Servicios:** edita los nombres, descripciones y detalles. Escribe un detalle por línea. Puedes agregar, eliminar o reordenar servicios.
 4. **Trabajos:** agrega videos, diseños, fotos y selecciones de catálogo. Para cada video, registra las vistas, los me gusta, comentarios y guardados. Las métricas se actualizan manualmente.
 5. **Contacto:** cambia WhatsApp, correo o redes sociales. Para WhatsApp, escribe solo números, con código de país. Ejemplo: `59164474763`. Una red vacía se oculta de la web.

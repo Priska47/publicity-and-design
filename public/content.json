@@ -8,9 +8,11 @@
     "heroImage": "/assets/logo-animado-poster.webp",
     "heroVideo": "/assets/logo-animado.mp4",
     "stat1Value": "200+",
-    "stat1Label": "producciones realizadas",
-    "stat2Value": "Más de 3 años",
-    "stat2Label": "haciendo que las marcas se vean"
+    "stat1Label": "producciones",
+    "stat2Value": "95%",
+    "stat2Label": "clientes satisfechos",
+    "stat3Value": "3+",
+    "stat3Label": "años de experiencia"
   },
   "about": {
     "title": "Un equipo. Una estrategia. De inicio a fin.",
@@ -18,16 +20,6 @@
     "story": "Nacimos al ver un patrón repetido: negocios con buen producto, pero cuyas redes no comunicaban ese nivel. Contenido publicado sin dirección clara ni una estrategia detrás.",
     "approach": "Nos encargamos de todo el proceso: grabación, guion, edición y diseño, bajo una misma estrategia pensada para cada negocio. El mismo equipo sigue tu proyecto de inicio a fin, para mantener consistencia en cada pieza.",
     "processVideos": [
-      {
-        "title": "Detrás de cada pieza",
-        "src": "/assets/proceso-1.mp4",
-        "poster": "/assets/proceso-1-poster.webp"
-      },
-      {
-        "title": "Así trabajamos",
-        "src": "/assets/proceso-2.mp4",
-        "poster": "/assets/proceso-2-poster.webp"
-      },
       {
         "title": "Producción en acción",
         "src": "/assets/lamelin.mp4",

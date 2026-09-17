@@ -2,7 +2,7 @@
 
 Web de agencia en español, preparada para despliegue automático en Netlify. Repositorio: [Priska47/publicity-and-design](https://github.com/Priska47/publicity-and-design). Rojo oficial: `#CD141E`. WhatsApp de la agencia: `+591 64474763`.
 
-Incluye Inicio, Nosotros, Servicios, Trabajos y Contacto. Ofrece asesoría gratuita y cotizaciones personalizadas, sin precios publicados. El portafolio contiene cinco videos con métricas, cinco diseños, dos selecciones de catálogo y cuatro fotografías. Cuatro videos del proceso están en Nosotros. El inicio incluye el logo animado en bucle.
+Incluye Inicio, Nosotros, Servicios, Trabajos y Contacto. Ofrece asesoría gratuita y cotizaciones personalizadas, sin precios publicados. El portafolio contiene cinco videos con métricas, cinco diseños, dos selecciones de catálogo y cuatro fotografías. Dos videos del proceso están en Nosotros. El inicio incluye el logo animado en bucle.
 
 ## Revisar localmente
 

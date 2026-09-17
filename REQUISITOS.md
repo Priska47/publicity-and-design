@@ -8,13 +8,13 @@ Las capturas de WhatsApp y los documentos aportados son fuentes de contenido y r
 - Diseño en negro, blanco y rojo `#CD141E`, con los logos finales de la agencia.
 - Título principal: «Vos tenés una marca, nosotros sabemos cómo potenciarla».
 - Logo animado en bucle en el inicio, sin la antigua fotografía de restaurante.
-- Destacados del inicio: «200+ producciones» y «Más de 3 años».
+- Destacados del inicio: «200+ producciones», «95% clientes satisfechos» y «3+ años de experiencia».
 - Presentación de Publicity and Design como equipo de producción estratégica de contenido para pymes, que acompaña el proyecto de principio a fin.
 - Servicios audiovisuales, estrategia, diseño, redes y presencia de marca.
 - Asesoría gratuita y cotización personalizada, sin sección pública de precios o paquetes.
 - Trabajos organizados en videos, diseños gráficos, catálogos y fotografía. Mantener el alcance e interacciones de los cinco videos publicados.
 - Galerías H2O: portada y tres páginas elegidas del catálogo 2025 («Hoodies 1») y del catálogo 2026 («hoodies 2»), extraídas de los PDF originales para conservar nitidez.
-- Incluir los dos videos nuevos de detrás de cámaras junto con los dos videos de proceso anteriores.
+- Incluir los dos videos nuevos de detrás de cámaras.
 - Las imágenes de fotografía y diseño deben mostrarse sin marco claro ni márgenes internos artificiales.
 - WhatsApp de la agencia: `+591 64474763`.
 
@@ -28,7 +28,7 @@ Las capturas de WhatsApp y los documentos aportados son fuentes de contenido y r
 | Club Borde de Ataque | 26.900 | 1.323 | 65 | 195 |
 | XPLOR Tropical | 37.800 | 1.296 | 143 | 418 |
 
-Las métricas de los videos son estáticas, corresponden a las capturas aportadas y se editan manualmente. Las cifras del inicio («200+ producciones» y «Más de 3 años») fueron solicitadas expresamente en la revisión del cliente.
+Las métricas de los videos son estáticas, corresponden a las capturas aportadas y se editan manualmente. Las cifras del inicio («200+ producciones», «95% clientes satisfechos» y «3+ años de experiencia») fueron solicitadas expresamente en la revisión del cliente.
 
 ## Entrega
 
